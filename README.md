@@ -1,2 +1,5 @@
 # love
-Generate letters "L", "O", "V", "E" and heart with some math functiond.
+Generate letters "L", "O", "V", "E" and heart with some mathematic functions.
+
+# Display
+
